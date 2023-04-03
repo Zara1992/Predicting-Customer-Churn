@@ -1,5 +1,5 @@
 # Predicting-Customer-Churn
-## Introducation
+## Introduction
 Problem Statement
 The company has noticed an increase in the number of customers that have stropped using it’s services. Therefore we have undertaken this project to predict customers at risk of churn. 
 
